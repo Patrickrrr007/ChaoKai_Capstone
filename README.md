@@ -1,4 +1,4 @@
-# MCP-Based RAG Multi-Agent Resume Screening System
+# MCP-Based RAG Resume Screening System
 
 A comprehensive resume screening system that uses RAG (Retrieval-Augmented Generation) with MCP (Model Context Protocol) architecture to analyze resumes against job descriptions.
 
