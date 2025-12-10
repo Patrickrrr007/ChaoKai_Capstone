@@ -2,8 +2,6 @@
 
 A comprehensive resume screening system that uses RAG (Retrieval-Augmented Generation) with MCP (Model Context Protocol) architecture to analyze resumes against job descriptions.
 
-📊 **View Workflow Diagram**: Please refer to [WORKFLOW.md](WORKFLOW.md) for detailed system workflow
-
 ## Features
 
 - **Phase 1: Data Ingestion**
